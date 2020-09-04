@@ -1,24 +1,24 @@
 # testUpgradeMeet
 
 #  [   RUN TESTS LOCALLY  ]
-
- Step 1: Download an Maven project
- Step 2: Import a maven project in Eclipse
- Step 3: Open Eclipse.
- Step 4: Select File > Import > option.
- Step 5 : Select Maven Projects Option. Click on Next Button.
- Step 6 : Select Project location, where a project was downloaded
- Step 7 : Click Finish Button.
+============================
+ 1.Step : Download an Maven project
+ 2.Step : Import a maven project in Eclipse
+ 3.Step : Open Eclipse.
+ 4.Step : Select File > Import > option.
+ 5.Step  : Select Maven Projects Option. Click on Next Button.
+ 6.Step  : Select Project location, where a project was downloaded
+ 7.Step  : Click Finish Button.
 
 ------> Now, you can see the maven project in eclipse
 
-Step 8 : Right Click on project to open context menu.
- Step 9 : Select Run as option.
- Step 10 : Then select maven package option.
+8.Step  : Right Click on project to open context menu.
+9.Step  : Select Run as option.
+10.Step  : Then select maven package option.
 
 #----->2 [  RUN TESTS THROUGH COMMANDLINE   ]
-
- Step 1 : To run test using maven, open Command Line
- Step 2 : Navigate to project location in your system 
- Step 3 : Run command  cd project path name 
- Step 4 : Run command  mvn clean test 
+===============================================
+ 1.Step  : To run test using maven, open Command Line
+ 2.Step  : Navigate to project location in your system 
+ 3.Step  : Run command  cd project path name 
+ 4.Step  : Run command  mvn clean test 
