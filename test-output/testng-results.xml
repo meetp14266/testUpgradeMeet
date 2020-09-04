@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="68817" started-at="2020-09-04T01:07:16Z" finished-at="2020-09-04T01:08:25Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="68817" started-at="2020-09-04T01:07:16Z" finished-at="2020-09-04T01:08:25Z">
+      <class name="com.AAapple.tests.SignUpPageTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.AAapple.tests.SignUpPageTest@52b1beb6]" name="beforeMethod" is-config="true" duration-ms="14227" started-at="2020-09-04T01:07:16Z" finished-at="2020-09-04T01:07:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test1()[pri:1, instance:com.AAapple.tests.SignUpPageTest@52b1beb6]" name="test1" duration-ms="17556" started-at="2020-09-04T01:07:31Z" description="SignUp_Page_Account_Created" finished-at="2020-09-04T01:07:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.AAapple.tests.SignUpPageTest@52b1beb6]" name="beforeMethod" is-config="true" duration-ms="15745" started-at="2020-09-04T01:07:48Z" finished-at="2020-09-04T01:08:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test2()[pri:2, instance:com.AAapple.tests.SignUpPageTest@52b1beb6]" name="test2" duration-ms="21253" started-at="2020-09-04T01:08:04Z" description="Signin_Page_Account_Login" finished-at="2020-09-04T01:08:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- com.AAapple.tests.SignUpPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
